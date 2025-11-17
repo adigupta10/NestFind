@@ -65,3 +65,563 @@ const styles = {
     },
 }
 export default Footer
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+v// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+// "name": "pg-frontend",
+//   "private": true,
+//   "version": "0.0.0",
+//   "type": "module",
+//   "scripts": {
+//     "dev": "vite",
+//     "build": "vite build",
+//     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+//     "preview": "vite preview"
+//   },
+//   },
+//   },
+//   },
