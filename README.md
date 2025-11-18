@@ -96,10 +96,10 @@ This ensures clean, conflict-free development.
 
 | Name | GitHub ID | Role |
 |------|-----------|------|
-| Member 1 | kaushik | Team Lead / Full Stack |
+| Member 1 | Kaushikyadav26 | UI/UX |
 | Member 2 | adigupta10 | Frontend |
-| Member 3 | — | Backend |
-| Member 4 | — | UI/UX |
+| Member 3 | ghanendra-tyagi | Backend |
+| Member 4 | Rachitsinghc7 | Database/API |
 
 ---
 
@@ -121,4 +121,4 @@ This ensures clean, conflict-free development.
 ---
 
 ## 📞 Contact  
-For queries or suggestions, reach out to the project maintainers.
+For queries or suggestions, reach out to the project maintainers. 
